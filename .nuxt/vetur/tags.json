@@ -1,0 +1,17 @@
+{
+  "Froms": {
+    "description": "Auto imported from components/Froms.vue"
+  },
+  "Inspire": {
+    "description": "Auto imported from components/Inspire.vue"
+  },
+  "Pokemon": {
+    "description": "Auto imported from components/Pokemon.vue"
+  },
+  "PokemonList": {
+    "description": "Auto imported from components/PokemonList.vue"
+  },
+  "Shop": {
+    "description": "Auto imported from components/Shop.vue"
+  }
+}

@@ -1,5 +1,5 @@
 # ProjectSolutions_POKEMONS
-![Screen Shot 2564-07-24 at 17 34 20](https://user-images.githubusercontent.com/37680262/126865847-10ce7bdf-4840-4e98-87de-e22868070180.png)
+![Screen Shot 2564-07-29 at 15 53 07](https://user-images.githubusercontent.com/37680262/127462566-7039c86a-83ef-4e34-b73a-92c869a718ef.png)
 ## Build Setup
 Using npm:
 ```bash

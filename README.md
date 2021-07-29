@@ -10,6 +10,10 @@ Using npm axios:
 ```bash
 $ npm install axios
 ```
+Using npm sweetalert2:
+```bash
+$ npm install sweetalert2
+```
 Using npm Install Css:
 ```bash
 $ npm install --save-dev @nuxtjs/tailwindcss postcss@latest
